@@ -8,3 +8,12 @@ PS C:\Users\andre.magacho\Documents\CC1> git config --global user.name "magachol
 PS C:\Users\andre.magacho\Documents\CC1> git config --global user.email "magacho.lucas@gmail.com"                      
 PS C:\Users\andre.magacho\Documents\CC1> git remote add origin https://github.com/magacholucas/UC1.git
 PS C:\Users\andre.magacho\Documents\CC1> git push -u origin main
+
+alteração de arquivo
+
+PS C:\Users\andre.magacho\Documents\CC1> git add "prog25.py" 
+PS C:\Users\andre.magacho\Documents\CC1> git commit -m "prog25.py alt" 
+[main 93d567d] prog25.py alt
+ 1 file changed, 9 insertions(+)
+ create mode 100644 prog25.py
+PS C:\Users\andre.magacho\Documents\CC1> git push -u origin main
