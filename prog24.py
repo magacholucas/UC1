@@ -20,3 +20,5 @@ match opcao:
         print ("A divisão é ", n1/n2)
     case _:
         print ("Opção invalida")
+        print ("teste de commit")
+ 
