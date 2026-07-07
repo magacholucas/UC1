@@ -22,3 +22,5 @@ PS C:\Users\andre.magacho\Documents\CC1> git push -u origin main
 para baixar o projeto do GitHub
 
 git pull -u origin main
+
+Pode fazer o upload pelo vs code automatico na coluna da esquerda
