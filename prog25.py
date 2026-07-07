@@ -7,3 +7,4 @@ elif  valor1 < valor2:
     print ("Valor 1 menor que valor2") 
 else :
     print ("valores iguais")
+    print ("teste de pul")
