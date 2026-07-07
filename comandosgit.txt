@@ -17,3 +17,8 @@ PS C:\Users\andre.magacho\Documents\CC1> git commit -m "prog25.py alt"
  1 file changed, 9 insertions(+)
  create mode 100644 prog25.py
 PS C:\Users\andre.magacho\Documents\CC1> git push -u origin main
+
+
+para baixar o projeto do GitHub
+
+git pull -u origin main

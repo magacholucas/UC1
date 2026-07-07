@@ -8,3 +8,4 @@ elif  valor1 < valor2:
 else :
     print ("valores iguais")
     print ("teste de pul")
+    print ("teste de push pelo vccod")

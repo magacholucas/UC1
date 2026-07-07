@@ -21,4 +21,4 @@ match opcao:
     case _:
         print ("Opção invalida")
         print ("teste de commit")
- 
+ print ("teste de push pelo vccod")
