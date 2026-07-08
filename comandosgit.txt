@@ -1,7 +1,7 @@
 PS C:\Users\andre.magacho\Documents\CC1> git init
 Initialized empty Git repository in C:/Users/andre.magacho/Documents/CC1/.git/
 PS C:\Users\andre.magacho\Documents\CC1> 
-PS C:\Users\andre.magacho\Documents\CC1> git add.
+PS C:\Users\andre.magacho\Documents\CC1> git add .
 
 PS C:\Users\andre.magacho\Documents\CC1> git branch -M main
 PS C:\Users\andre.magacho\Documents\CC1> git config --global user.name "magacholucas"        
